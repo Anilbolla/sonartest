@@ -1,0 +1,1 @@
+this is the build directory where jar/war build artifact will be placed post build completion.
